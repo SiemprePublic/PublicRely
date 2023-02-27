@@ -1,4 +1,7 @@
+
+
 # Some Linux scripts
+
 ## SuperTrace.sh
 - Description: Auto Traceroute to China Network
 - Intro:  https://www.oldking.net/1359.html
@@ -38,6 +41,9 @@ Usage:
 | 1        | wget -qO- git.io/superbench.sh | bash       |
 | 2        | curl -Lso- git.io/superbench.sh | bash      |
 | 3        | wget -qO- oldking.net/superbench.sh | bash  |
+
+
+wget -qO- https://github.com/SiemprePublic/PublicRely/blob/main/script/speed/superbench.sh | bash
 ```
 
 
