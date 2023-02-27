@@ -45,7 +45,9 @@ Usage:
 ```
 
 ```
-wget -qO- https://raw.githubusercontent.com/SiemprePublic/PublicRely/main/script/speed/superbench.sh | bash
+wget -qO- --no-check-certificate https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash
+
+wget -qO- --no-check-certificate https://raw.githubusercontent.com/SiemprePublic/PublicRely/main/script/speed/superbench.sh | bash
 ```
 
 
