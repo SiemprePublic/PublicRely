@@ -42,8 +42,10 @@ Usage:
 | 2        | curl -Lso- git.io/superbench.sh | bash      |
 | 3        | wget -qO- oldking.net/superbench.sh | bash  |
 
+```
 
-wget -qO- https://github.com/SiemprePublic/PublicRely/blob/main/script/speed/superbench.sh | bash
+```
+wget -qO- https://raw.githubusercontent.com/SiemprePublic/PublicRely/main/script/speed/superbench.sh | bash
 ```
 
 
